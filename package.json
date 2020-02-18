@@ -1,7 +1,7 @@
 {
-  "name": "docdash",
+  "name": "opcdoc",
   "version": "1.2.0",
-  "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash and minami",
+  "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash minami and docdash",
   "main": "publish.js",
   "scripts": {
     "test": "jsdoc -c fixtures/fixtures.conf.json",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clenemt/docdash.git"
+    "url": "https://github.com/iDiver76/opc-doc.git"
   },
   "devDependencies": {
     "jsdoc": "latest",
     "browser-sync": "latest",
     "watch-run": "latest"
   },
-  "author": "Clement Moron <clement.moron@gmail.com>",
+  "author": "David Janssen",
   "license": "Apache-2.0",
   "keywords": [
     "jsdoc",
