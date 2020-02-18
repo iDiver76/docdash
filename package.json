@@ -1,5 +1,5 @@
 {
-  "name": "opcdoc",
+  "name": "docdash",
   "version": "1.2.0",
   "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash minami and docdash",
   "main": "publish.js",
